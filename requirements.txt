@@ -1,0 +1,12 @@
+pymongo
+opencv-contrib-python
+dash
+torch
+pandas
+openpyxl
+numpy
+imutils
+keyboard
+zmq
+pickle
+pillow
